@@ -1,0 +1,46 @@
+section > h1 {
+  font-family: "Source Code Pro";
+  color: cornflowerblue;
+}
+
+article {
+  border-radius: 25px;
+  padding: 20px;
+  margin-bottom: 15px;
+  background-color: lightgray;
+  text-align: center;
+  width: 50%;
+}
+
+article > h2 {
+  color: #9b559b;
+}
+
+article > p {
+  font-family: "fantasy";
+  font-style: italic;
+}
+
+nav > ul > li {
+  display: inline-block;
+  padding-right: 10px;
+}
+
+nav > ul > li > a {
+  text-decoration: none;
+  font-size: 20px;
+  color: limegreen;
+}
+
+header > p, footer {
+  font-size: 25px;
+  font-family: "Source Code Pro";
+  color: #ff0000;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+}
+
+/*# sourceMappingURL=style.css.map */
